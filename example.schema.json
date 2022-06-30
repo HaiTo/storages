@@ -2,6 +2,6 @@
     "type": "object",
     "required": ["a"],
     "properties": {
-        "a: {"type": "integer"}
+        "a": {"type": "integer"}
     }
 }
